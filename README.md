@@ -5,4 +5,4 @@ TV: TV reklamlarına yapılan harcamaların milyonlarca dolar cinsinden miktarı
 Radio: Radyo reklamlarına yapılan harcamaların milyonlarca dolar cinsinden miktarını temsil eder.
 Newspaper: Gazete reklamlarına yapılan harcamaların milyonlarca dolar cinsinden miktarını temsil eder.
 Sales: Elde edilen satış miktarını temsil eder.
-Lineer regresyon ile model kurulacak ve kurulan modelin başarısı rmse ve r2 yöntemleriyle değerlendirilecektir.
+Lineer regresyon ile model kurulacak ve kurulan modelin başarısı rmse ve r2 metrikleriyle değerlendirilecektir.
